@@ -32,8 +32,7 @@
 - 🔭 I’m currently working on **Full Stack Web Development & AI Projects**.
 - 🌱 I’m currently learning **Advanced Neural Networks & System Design**.
 - 🤝 I’m looking to collaborate on **Open Source Projects**.
-- 💬 Ask me about **React, Next.js, Django, or anything Tech!**
-- ⚡ Fun fact: **I can debug code in my sleep (literally).**
+  
 
 ---
 
