@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://t3.ftcdn.net/jpg/11/66/58/74/360_F_1166587468_ZopHWl13KwyUV9w2fQiQxO2M29gkDKDB.jpg" width="120" />
+  <img src="https://t3.ftcdn.net/jpg/11/66/58/74/360_F_1166587468_ZopHWl13KwyUV9w2fQiQxO2M29gkDKDB.jpg" width="240" />
   
   <h1 align="center">Hi there, I'm Lomesh! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/></h1>
 
